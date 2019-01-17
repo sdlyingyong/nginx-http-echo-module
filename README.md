@@ -1,24 +1,24 @@
 ![](https://github.com/sdlyingyong/nginx-http-echo-module/blob/readme/image/logo.jpg)
 
 
-# NGINX-HTTP-ECHO-MODULE 1.0 - [官方主页](https://www.)
+# NGINX-HTTP-ECHO-MODULE 1.0 - [Official Homepage](https://www.)
 ![](https://github.com/sdlyingyong/nginx-http-echo-module/blob/readme/image/clipboard.png)
 
 =========================
 
-羡慕Nginx的强大功能吗?
+Envy the power of Nginx?
 
-需要性能更加强悍的处理模块吗?
+Need a more robust processing module?
 
-想进一步深入了解Nginx内部的秘密吗?
+Want to learn more about the secrets inside Nginx?
 
-现在,你能在这个世界上占有率最高 高性能异步服务器上.
+Now you can have the highest share of high performance asynchronous servers in this world.
 
-编写你的echo 基本输出模块
+Write your echo basic output module
 
 ## Feature
-- blog 教程链接
-- Nginx扩展开发资源
+- blog of tutorial link
+- resource of Nginx module development 
 
 ## Architecture
 ![](https://github.com/sdlyingyong/nginx-http-echo-module/blob/readme/image/module%20load.jpg)
